@@ -46,7 +46,7 @@
 <body>
     <div class="container">
         <h1>Bicicleta de Montaña</h1>
-        <img src="https://via.placeholder.com/400" alt="Bicicleta de montaña">
+        <img src="https://educaysoft.or/willweb/bicicleta.jpeg" alt="Bicicleta de montaña">
         <p>Excelente bicicleta de montaña en perfectas condiciones. Cuenta con frenos de disco, cambios Shimano y suspensión delantera.</p>
         <p class="price">$300</p>
         <a href="https://wa.me/1234567890" class="contact-button">Contactar por WhatsApp</a>
